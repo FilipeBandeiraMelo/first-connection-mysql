@@ -1,0 +1,1 @@
+Imagens em anexo para comprovar que o teste funcionou no sistema.
